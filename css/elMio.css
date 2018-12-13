@@ -1,0 +1,17 @@
+.sidebar{background-color: rgb(8, 97, 97);}
+h1{text-align: center;
+color: rgba(3, 3, 94, 0.548);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cv{background-color: rgb(18, 97, 97,0.8);}
+.fixed{position: fixed;}
+a{
+    color: rgba(92, 3, 3, 0.849);
+}
+a:hover{
+    color: rgba(61, 1, 1, 0.993)
+}
